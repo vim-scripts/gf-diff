@@ -1,0 +1,6 @@
+all_files_in_repos :=          Makefile autoload/gf/diff.vim doc/gf-diff.txt plugin/gf/diff.vim test/internal.expected test/internal.input test/ui.expected test/ui.input
+current_branch := master
+origin_name := origin
+origin_uri := /Users/kana/working/vim-gf-diff
+repos_name := vim-gf-diff
+version := 0.1.1
